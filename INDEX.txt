@@ -1,0 +1,70 @@
+Chapter 2/Chapter 2 ipython file File 01-11-2015 10:23:18
+ - Chapter 2.ipynb
+Chapter 3/Chapter 3 ipython file File 22-11-2015 10:44:27
+ - Chapter 3.ipynb
+Chapter 4/Chapter 4 Ipython file File 23-11-2015 05:11:34
+ - Chapter 4.ipynb
+Chapter 5/Chapter 5 Ipython file File 04-12-2015 13:19:00
+ - Chapter 5.ipynb
+Chapter 6/Chapter 6 code part III - Index settings and analyzers File 15-03-2015 10:47:00
+ - Chapter 6 code part III - Index settings and analyzers.ipynb
+Chapter 6/Chapter 6 code part I - Data retrieval & preparation File 03-10-2015 07:34:23
+ - Chapter 6 code part I - Data retrieval & preparation.ipynb
+Chapter 6/medical index File 23-10-2015 03:43:17
+ - medical.zip
+Chapter 6/Chapter 6 code part II - Search Queries , Filters & Aggregations File 15-03-2015 10:46:39
+ - Chapter 6 code part II - Search Queries , Filters & Aggregations.ipynb
+Chapter 7/data preparation part 2 (.py) File 23-09-2015 07:09:29
+ - Data Preparation Part 2.py
+Chapter 7/ingredients (.txt) File 23-09-2015 07:11:26
+ - ingredients.txt
+Chapter 7/data preparation part 1 (.py) File 23-09-2015 07:07:31
+ - Data Preparation Part 1.py
+Chapter 7/Gastronomical elasticsearch index File 23-09-2015 07:09:31
+ - elasticsearch index.zip
+Chapter 7/Exploration & Recommender System (.ipynb) File 23-09-2015 07:11:01
+ - Exploration & Recommender System.ipynb
+Chapter 7/data preparation part 1 (.ipynb) File 23-09-2015 07:08:19
+ - Data Preparation Part 1.ipynb
+Chapter 7/recipes (.json zipped) File 23-09-2015 07:13:09
+ - recipes.zip
+Chapter 7/graph database neo4j File 23-10-2015 03:28:59
+ - Neo4JDatabase.zip
+Chapter 7/Exploration & Recommender System (.py) File 23-09-2015 07:10:22
+ - Exploration & Recommender System.py
+Chapter 7/data preparation part 2 (.ipynb) File 23-09-2015 07:08:50
+ - Data Preparation Part 2.ipynb
+Chapter 8/Sunburst Graph File 28-06-2015 11:47:46
+ - sunburst.html
+Chapter 8/Reddit SQLite data File 28-06-2015 11:45:42
+ - reddit.db
+Chapter 8/Data Preparation and Analysis File 28-06-2015 11:44:29
+ - Chapter 8 data preparation and analysis.ipynb
+Chapter 8/Decision tree data File 28-06-2015 11:46:13
+ - decisionTreeData.json
+Chapter 8/Force Graph File 28-06-2015 11:46:33
+ - forceGraph.html
+Chapter 8/Data collection File 28-06-2015 11:43:38
+ - Chapter 8 data collection.ipynb
+Chapter 8/Naive Bayes data File 28-06-2015 11:47:25
+ - NaiveBayesData.json
+Chapter 9/dc.js library CSS File 22-02-2015 15:45:34
+ - dc.css
+Chapter 9/Chapter 10 code package File 02-10-2015 07:26:58
+ - chapter 10 code package.zip
+Chapter 9/index File 02-10-2015 07:24:45
+ - index.html
+Chapter 9/d3.v3.min.js File 22-02-2015 15:46:45
+ - d3.v3.min.js
+Chapter 9/dc.js library File 23-11-2014 14:04:59
+ - dc.min.js
+Chapter 9/application File 02-10-2015 07:22:33
+ - application.js
+Chapter 9/JQuery library File 23-11-2014 14:05:45
+ - jquery.min.js
+Chapter 9/crossfilter library File 23-11-2014 14:04:37
+ - crossfilter.min.js
+Chapter 9/application CSS File 22-02-2015 15:44:50
+ - application.css
+Chapter 9/medicines data File 23-11-2014 14:06:32
+ - medicines.csv
